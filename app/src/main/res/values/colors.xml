@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDivider">#E0E0E0</color>
+    <color name="colorHeader">#808080</color>
+    <color name="colorText">#212121</color>
+</resources>

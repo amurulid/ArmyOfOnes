@@ -1,0 +1,4 @@
+Army of One
+- Open project in Android Studio.
+- To run, hit the green play button.
+- To run tests, right click on app/src/androidTest/java/ and select "run all tests"
